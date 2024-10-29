@@ -35,7 +35,7 @@ elif opcion == 3:
 
 #Cálculo del área del triángulo
 
-base = float(input("Itroduce la base del triángulo"))
+base =float(input("Itroduce la base del triángulo"))
 altura = float(input("Introduce la altura del triángulo"))
 area = (base,altura)/2
 print (f"El área del triángulo es: {area}")
