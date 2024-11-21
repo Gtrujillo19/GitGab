@@ -1,99 +1,74 @@
-/* Estilo general */
-body {
-    background-image: url('SpaceX.jpeg');
-    background-size: cover; /* Escala la imagen */
-    background-position: center; /* Centra la imagen */
-    background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
-    color: #3665a7; /* Cambia el color del texto para que contraste */
-    font-family: 'Calibre', sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #030343; /* Color de fondo general */
-    line-height: 1.6;
-    min-height: 100vh; /* Asegura que el body ocupe toda la altura de la ventana */
-    display: flex;
-    flex-direction: column; /* Asegura que el contenido fluya de arriba hacia abajo */
+/* Fondo de pantalla */
+.background {
+    background-image: url('./img/SpaceX.jpeg'); /* Ruta relativa */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Fondo fijo al hacer scroll */
+    color: white; /* Texto blanco para buen contraste */
+    padding: 50px;
+    font-family: 'Arial', sans-serif; /* Fuente moderna */
+    min-height: 100vh; /* Esto permite que la página ocupe al menos toda la altura de la ventana */
+    box-sizing: border-box;
+    overflow-x: hidden; /* Evita desplazamiento horizontal */
 }
 
-h2 {
-    color: #36a752;
-}
-
-/* Contenedor principal */
-.menu {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background: #363daa; /* Fondo blanco */
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    flex-grow: 1; /* Hace que el contenedor principal ocupe el espacio disponible */
-}
-
-/* Título principal */
+/* Estilo para el título */
 .main-title {
-    font-size: 2em;
-    color: #b2c7d4; /* Color azul */
+    font-size: 2.5em;
+    color: yellow; /* Ajusta el color para que contraste */
     text-align: center;
-    margin-bottom: 10px;
+    margin-top: 0;
 }
 
-/* Fórmula */
+/* Estilo del párrafo de la fórmula */
 #formula {
-    font-size: 11em;
+    font-size: 1.725em; /* Aumentamos el tamaño al 15% más grande */
     font-weight: bold;
     text-align: center;
-    color: #bb2f04; /* Naranja */
-    margin: 20px 0;
 }
 
-/* Noticia */
+/* Estilo para el texto largo */
 #news {
+    margin-top: 20px;
     font-size: 1em;
-    text-align: justify;
-    background-color: #f9f9f9; /* Fondo gris claro */
-    padding: 15px;
-    border-left: 4px solid #007acc; /* Borde azul */
-    border-radius: 4px;
+    line-height: 1.6;
 }
 
-/* Enlaces */
+/* Estilo para los enlaces */
 a {
-    display: inline-block;
+    display: block;
+    margin-top: 20px;
+    color: lightblue;
     text-decoration: none;
-    color: #a2a2bd;
-    background: #1c2a33; /* Azul */
-    padding: 10px 15px;
-    margin: 10px 5px;
-    border-radius: 4px;
-    transition: background 0.3s;
+    font-weight: bold;
 }
 
 a:hover {
-    background: #b1bbbf; /* Azul más oscuro */
+    color: cyan;
 }
 
-a:active {
-    background: #004366; /* Azul aún más oscuro */
+/* Contenedor para el video */
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px; /* Espacio entre el texto y el video */
 }
 
-/* Pie de página (Creador) */
+/* Asegura que el footer tenga un padding decente */
 footer {
     text-align: center;
-    margin-top: 40px;
     padding: 20px;
-    background-color: #333; /* Fondo oscuro */
-    color: #aa4d4d; /* Texto blanco para contraste */
-    border-top: 2px solid #007acc; /* Borde superior azul */
-    width: 100%; /* Asegura que ocupe todo el ancho */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 50px; /* Asegura que el footer no se mezcle con el contenido */
 }
 
-/* Añadir un ligero espacio entre párrafos */
+/* Agrega espacio entre los párrafos */
 #news p {
-    margin-bottom: 13px;
+    margin-bottom: 20px;
 }
 
-ul {
-    color: #a9b2c1;
+/* Espaciado adicional entre los elementos */
+.spacer {
+    height: 30px; /* Añadimos espacio entre el contenido y el video */
 }
