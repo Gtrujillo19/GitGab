@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTVHTMLTEST
+    </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="menu"> 
+        <h1 class="main-title">Formula de la teoría de la relatividad</h1>
+        <p id="formula">E = mc<sup>2</sup></p>
+        
+        <!-- Noticia larga de ejemplo -->
+        <p id="news">
+            La fórmula más conocida de la teoría de la relatividad es E = mc², propuesta por Albert Einstein en 1905 como parte de su teoría de la relatividad especial. Esta ecuación establece que la energía (E) de un cuerpo es igual a su masa (m) multiplicada por el cuadrado de la velocidad de la luz (c²). Implica que la masa y la energía son equivalentes y pueden transformarse entre sí, lo que revolucionó nuestra comprensión del universo. Además, es la base teórica de fenómenos como la energía nuclear y las reacciones en estrellas como el Sol.
+            <!-- Agrega más párrafos o texto para llenar el contenido de la noticia -->
+        </p>
+
+        <!-- Enlaces -->
+        <a href="https://youtu.be/RTlixJv7gWo?si=oRw_nk84--uyqqfE" target="_blank">Ver fuente</a>
+        <a href="#formula">GO UP</a>
+    </div>
+</body>
+</html>
+

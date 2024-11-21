@@ -1,0 +1,99 @@
+/* Estilo general */
+body {
+    background-image: url('SpaceX.jpeg');
+    background-size: cover; /* Escala la imagen */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
+    color: #3665a7; /* Cambia el color del texto para que contraste */
+    font-family: 'Calibre', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #030343; /* Color de fondo general */
+    line-height: 1.6;
+    min-height: 100vh; /* Asegura que el body ocupe toda la altura de la ventana */
+    display: flex;
+    flex-direction: column; /* Asegura que el contenido fluya de arriba hacia abajo */
+}
+
+h2 {
+    color: #36a752;
+}
+
+/* Contenedor principal */
+.menu {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #363daa; /* Fondo blanco */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* Hace que el contenedor principal ocupe el espacio disponible */
+}
+
+/* Título principal */
+.main-title {
+    font-size: 2em;
+    color: #b2c7d4; /* Color azul */
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Fórmula */
+#formula {
+    font-size: 11em;
+    font-weight: bold;
+    text-align: center;
+    color: #bb2f04; /* Naranja */
+    margin: 20px 0;
+}
+
+/* Noticia */
+#news {
+    font-size: 1em;
+    text-align: justify;
+    background-color: #f9f9f9; /* Fondo gris claro */
+    padding: 15px;
+    border-left: 4px solid #007acc; /* Borde azul */
+    border-radius: 4px;
+}
+
+/* Enlaces */
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: #a2a2bd;
+    background: #1c2a33; /* Azul */
+    padding: 10px 15px;
+    margin: 10px 5px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+a:hover {
+    background: #b1bbbf; /* Azul más oscuro */
+}
+
+a:active {
+    background: #004366; /* Azul aún más oscuro */
+}
+
+/* Pie de página (Creador) */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #333; /* Fondo oscuro */
+    color: #aa4d4d; /* Texto blanco para contraste */
+    border-top: 2px solid #007acc; /* Borde superior azul */
+    width: 100%; /* Asegura que ocupe todo el ancho */
+}
+
+/* Añadir un ligero espacio entre párrafos */
+#news p {
+    margin-bottom: 13px;
+}
+
+ul {
+    color: #a9b2c1;
+}
