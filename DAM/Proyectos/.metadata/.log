@@ -4928,3 +4928,37 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY ch.qos.logback.classic 1 0 2024-11-17 14:28:48.232
 !MESSAGE Logback config file: /Users/GabrielTrujilloVallejo/Documents/GitHub/GitGa/DAM/Proyectos/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-11-26 21:24:47.303 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/GabrielTrujilloVallejo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/GabrielTrujilloVallejo/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 21:24:50.606
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 21:25:33.627
+!MESSAGE Logback config file: /Users/GabrielTrujilloVallejo/Documents/GitHub/GitGa/DAM/Proyectos/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-11-27 20:45:49.370 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/GabrielTrujilloVallejo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/GabrielTrujilloVallejo/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 20:45:53.162
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 20:45:58.632
+!MESSAGE Logback config file: /Users/GabrielTrujilloVallejo/Documents/GitHub/GitGa/DAM/Proyectos/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-27 23:16:58.343
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2024-11-27 23:16:58.351
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-11-27 23:16:58.351
+!MESSAGE The project description file (.project) for 'Pruebas' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
