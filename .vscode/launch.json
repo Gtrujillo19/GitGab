@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "mayoredadprog",
+            "request": "launch",
+            "mainClass": "mayoredadprog",
+            "projectName": "GitGa_58de8950"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Iniciar Chrome para localhost",

@@ -3,8 +3,8 @@ public class ProgramacionCasoPractico15 {
 
 	public static void main(String[] args) {
 		
-        int contadorMultiplos2 = 0;  // Contador de múltiplos de 2
-        int contadorMultiplos3 = 0;  // Contador de múltiplos de 3
+		int contadorMultiplos2 = 0;  // Contador de múltiplos de 2
+		int contadorMultiplos3 = 0;  // Contador de múltiplos de 3
 
         for (int i = 0; i <= 100; i++) {
 
