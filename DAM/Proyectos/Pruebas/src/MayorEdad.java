@@ -1,12 +1,12 @@
-import java.util.scanner;
+import java.util.Scanner;  // Corregido: Scanner con mayúscula
 
-public class MayorEdad2 {
+public class MayorEdad {
 
-	public static void main(String[] args) {
-		 /* Declaración Variables */
+    public static void main(String[] args) {
+        /* Declaración Variables */
         int edad;
         boolean mayorEdad;
-        Scanner sc = new  Scanner(System.in);
+        Scanner sc = new Scanner(System.in);  // Correcto uso de Scanner
         
         /* Introducción variables */
         System.out.println("Introduce la edad");
@@ -25,13 +25,4 @@ public class MayorEdad2 {
         /* Cierre Scanner */
         sc.close();
     }
-
-
-	
-
-
-
-
-	}
-
-
+}
