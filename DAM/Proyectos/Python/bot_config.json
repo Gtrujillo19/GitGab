@@ -1,0 +1,37 @@
+{
+    "strategy_params": {
+        "moving_average": {
+            "fast_period": 5,
+            "slow_period": 20
+        },
+        "rsi": {
+            "rsi_period": 14,
+            "rsi_overbought": 70,
+            "rsi_oversold": 30
+        },
+        "threshold": {
+            "support_level": 49000,
+            "resistance_level": 51000,
+            "stop_loss_percent": 0.02
+        },
+        "macd": {
+            "fast_length": 12,
+            "slow_length": 26,
+            "signal_length": 9
+        },
+        "ma_rsi": {
+            "fast_period": 5,
+            "slow_period": 20,
+            "rsi_period": 14,
+            "rsi_overbought": 70,
+            "rsi_oversold": 30
+        },
+        "wyckoff": {
+            "support_level": 49000,
+            "resistance_level": 51000,
+            "volume_threshold": 1.5,
+            "stop_loss_percent": 0.02
+        }
+    },
+    "timeframe": "15m"
+}
