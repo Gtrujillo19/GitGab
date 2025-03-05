@@ -1,0 +1,5 @@
+tk
+python-binance
+plyer
+requests
+numpy

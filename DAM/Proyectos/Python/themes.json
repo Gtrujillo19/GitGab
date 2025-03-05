@@ -1,0 +1,42 @@
+{
+    "Midnight Blue": {
+        "window_bg": "#feffff",
+        "frame_bg": "#e1ffbd",
+        "label_fg": "#000000",
+        "button_bg": "#ff0d10",
+        "button_fg": "#000000",
+        "text_bg": "#f9fffe",
+        "text_fg": "#000000",
+        "highlight": "#fd0a15"
+    },
+    "Soft Light": {
+        "window_bg": "#F5F7FA",
+        "frame_bg": "#FFFFFF",
+        "label_fg": "#333333",
+        "button_bg": "#48C774",
+        "button_fg": "#FFFFFF",
+        "text_bg": "#F9FAFB",
+        "text_fg": "#333333",
+        "highlight": "#FF6B6B"
+    },
+    "Twilight Forest": {
+        "window_bg": "#FFFFFF",
+        "frame_bg": "#F5F5F5",
+        "label_fg": "#000000",
+        "button_bg": "#1976D2",
+        "button_fg": "#FFFFFF",
+        "text_bg": "#000000",
+        "text_fg": "#e1ffbd",
+        "highlight": "#D32F2F"
+    },
+    "High Contrast": {
+        "window_bg": "#FFFFFF",
+        "frame_bg": "#F5F5F5",
+        "label_fg": "#000000",
+        "button_bg": "#1976D2",
+        "button_fg": "#FFFFFF",
+        "text_bg": "#000000",
+        "text_fg": "#e1ffbd",
+        "highlight": "#D32F2F"
+    }
+}
