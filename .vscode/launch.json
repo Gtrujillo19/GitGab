@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+       
+        {
+            "type": "java",
+            "name": "Trash",
+            "request": "launch",
+            "mainClass": "DAM/Proyectos/Pruebas/src/Thrash.java",
+            "projectName": "GitGa_58de8950"
+        }
+
+    
+        {
+            "type": "java",
+            "name": "empleados",
+            "request": "launch",
+            "mainClass": "DAM.Programación.UD3.CPUD3.CPPROG1UD3.empleados",
+            "projectName": "GitGa_58de8950"
+        },
+        {
+            "type": "java",
+            "name": "mayoredadprog",
+            "request": "launch",
+            "mainClass": "mayoredadprog",
+            "projectName": "GitGa_58de8950"
+        },
+        
+    ]
+}
