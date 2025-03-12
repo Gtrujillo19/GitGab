@@ -1,0 +1,562 @@
+2025-03-04 13:09:55,422 - INFO - Sincronización de tiempo: diferencia de -46 ms con el servidor de Binance.
+2025-03-04 13:09:55,760 - ERROR - Error al ejecutar el programa: 'Client' object has no attribute 'time_difference'
+2025-03-04 13:15:53,857 - INFO - Sincronización de tiempo: diferencia de -39 ms con el servidor de Binance.
+2025-03-04 13:15:56,775 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 13:15:57,041 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 13:56:05,801 - INFO - Sincronización de tiempo: diferencia de -74 ms con el servidor de Binance.
+2025-03-04 13:56:08,756 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 13:56:09,024 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 13:57:25,947 - INFO - Bot iniciado manualmente...
+2025-03-04 13:57:25,948 - ERROR - Error al iniciar el bot: 'BinanceBot' object has no attribute 'trading_strategy'
+2025-03-04 13:59:38,351 - INFO - Strategy updated to: wyckoff
+2025-03-04 14:03:23,761 - INFO - Sincronización de tiempo: diferencia de -75 ms con el servidor de Binance.
+2025-03-04 14:03:25,759 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 14:03:26,024 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 14:03:36,861 - INFO - Bot iniciado manualmente...
+2025-03-04 14:03:36,862 - ERROR - Error al iniciar el bot: 'BinanceBot' object has no attribute 'trading_strategy'
+2025-03-04 14:15:22,882 - INFO - Sincronización de tiempo: diferencia de -81 ms con el servidor de Binance.
+2025-03-04 14:15:25,292 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 14:15:26,037 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 14:15:55,991 - INFO - Bot iniciado manualmente...
+2025-03-04 14:16:09,197 - INFO - Bot detenido manualmente...
+2025-03-04 14:16:12,437 - INFO - Strategy updated to: rsi
+2025-03-04 14:16:15,579 - INFO - Bot iniciado manualmente...
+2025-03-04 14:27:42,657 - INFO - Sincronización de tiempo: diferencia de -81 ms con el servidor de Binance.
+2025-03-04 14:27:45,347 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 14:27:45,626 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 14:27:57,539 - INFO - Bot iniciado manualmente...
+2025-03-04 14:27:57,543 - INFO - Iniciando estrategia: moving_average con timeframe: 1m
+2025-03-04 14:27:57,815 - INFO - Precio actual de BTCUSDT: 82952.00 USDT
+2025-03-04 14:27:58,072 - INFO - Fast MA: 82866.64, Slow MA: 83205.27
+2025-03-04 14:38:08,023 - INFO - Sincronización de tiempo: diferencia de -53 ms con el servidor de Binance.
+2025-03-04 14:38:10,559 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 14:38:10,822 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 14:40:45,464 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:40:45,474 - INFO - Temas guardados en themes.json
+2025-03-04 14:44:36,310 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:44:36,312 - INFO - Temas guardados en themes.json
+2025-03-04 14:45:03,887 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:45:03,896 - INFO - Temas guardados en themes.json
+2025-03-04 14:45:18,327 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:45:18,336 - INFO - Temas guardados en themes.json
+2025-03-04 14:45:36,575 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:45:36,584 - INFO - Temas guardados en themes.json
+2025-03-04 14:45:58,127 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:45:58,129 - INFO - Temas guardados en themes.json
+2025-03-04 14:46:17,653 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:46:17,662 - INFO - Temas guardados en themes.json
+2025-03-04 14:46:49,950 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:46:49,951 - INFO - Temas guardados en themes.json
+2025-03-04 14:47:41,163 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:47:41,165 - INFO - Temas guardados en themes.json
+2025-03-04 14:48:01,733 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:48:01,734 - INFO - Temas guardados en themes.json
+2025-03-04 14:48:12,180 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:48:12,182 - INFO - Temas guardados en themes.json
+2025-03-04 14:48:26,806 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:48:26,817 - INFO - Temas guardados en themes.json
+2025-03-04 14:49:11,504 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:49:11,514 - INFO - Temas guardados en themes.json
+2025-03-04 14:49:33,913 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:49:33,915 - INFO - Temas guardados en themes.json
+2025-03-04 14:50:03,801 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:50:03,812 - INFO - Temas guardados en themes.json
+2025-03-04 14:50:20,804 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:50:20,814 - INFO - Temas guardados en themes.json
+2025-03-04 14:50:57,468 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:50:57,469 - INFO - Temas guardados en themes.json
+2025-03-04 14:51:17,632 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:51:17,633 - INFO - Temas guardados en themes.json
+2025-03-04 14:51:58,599 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:51:58,601 - INFO - Temas guardados en themes.json
+2025-03-04 14:52:15,807 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:52:15,816 - INFO - Temas guardados en themes.json
+2025-03-04 14:52:39,599 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:52:39,601 - INFO - Temas guardados en themes.json
+2025-03-04 14:52:58,196 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:52:58,205 - INFO - Temas guardados en themes.json
+2025-03-04 14:53:17,201 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:53:17,210 - INFO - Temas guardados en themes.json
+2025-03-04 14:53:45,505 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:53:45,515 - INFO - Temas guardados en themes.json
+2025-03-04 14:53:56,628 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:53:56,638 - INFO - Temas guardados en themes.json
+2025-03-04 14:54:09,067 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:54:09,076 - INFO - Temas guardados en themes.json
+2025-03-04 14:54:25,462 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:54:25,473 - INFO - Temas guardados en themes.json
+2025-03-04 14:54:53,361 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:54:53,363 - INFO - Temas guardados en themes.json
+2025-03-04 14:55:07,081 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:55:07,091 - INFO - Temas guardados en themes.json
+2025-03-04 14:55:37,186 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:55:37,195 - INFO - Temas guardados en themes.json
+2025-03-04 14:55:55,531 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:55:55,533 - INFO - Temas guardados en themes.json
+2025-03-04 14:56:20,074 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:56:20,084 - INFO - Temas guardados en themes.json
+2025-03-04 14:56:55,895 - INFO - Tema Midnight Blue actualizado correctamente.
+2025-03-04 14:56:55,904 - INFO - Temas guardados en themes.json
+2025-03-04 14:57:11,082 - INFO - Timeframe updated to: 15m
+2025-03-04 14:57:11,091 - INFO - Configuración guardada en bot_config.json
+2025-03-04 14:57:13,922 - INFO - Bot iniciado manualmente...
+2025-03-04 14:57:13,924 - INFO - Iniciando estrategia: moving_average con timeframe: 15m
+2025-03-04 14:57:13,927 - INFO - Strategy changed from moving_average to moving_average or timeframe changed from 1m to 15m. Resetting variables.
+2025-03-04 14:57:15,259 - INFO - Precio actual de BTCUSDT: 82776.26 USDT
+2025-03-04 14:57:15,519 - INFO - Fast MA: 83224.38, Slow MA: 83694.46
+2025-03-04 14:57:45,785 - INFO - Precio actual de BTCUSDT: 82833.25 USDT
+2025-03-04 14:57:46,050 - INFO - Fast MA: 83235.78, Slow MA: 83697.31
+2025-03-04 14:58:16,324 - INFO - Precio actual de BTCUSDT: 82833.52 USDT
+2025-03-04 14:58:16,589 - INFO - Fast MA: 83235.84, Slow MA: 83697.32
+2025-03-04 14:58:16,734 - INFO - Tema High Contrast actualizado correctamente.
+2025-03-04 14:58:16,736 - INFO - Temas guardados en themes.json
+2025-03-04 14:58:25,748 - INFO - Tema High Contrast actualizado correctamente.
+2025-03-04 14:58:25,759 - INFO - Temas guardados en themes.json
+2025-03-04 14:58:38,195 - INFO - Tema High Contrast actualizado correctamente.
+2025-03-04 14:58:38,206 - INFO - Temas guardados en themes.json
+2025-03-04 14:58:46,853 - INFO - Precio actual de BTCUSDT: 82825.38 USDT
+2025-03-04 14:58:47,112 - INFO - Fast MA: 83234.21, Slow MA: 83696.92
+2025-03-04 14:59:17,372 - INFO - Precio actual de BTCUSDT: 82781.15 USDT
+2025-03-04 14:59:17,637 - INFO - Fast MA: 83225.36, Slow MA: 83694.71
+2025-03-04 14:59:40,300 - INFO - Tema Twilight Forest actualizado correctamente.
+2025-03-04 14:59:40,309 - INFO - Temas guardados en themes.json
+2025-03-04 14:59:42,260 - INFO - Tema Twilight Forest actualizado correctamente.
+2025-03-04 14:59:42,263 - INFO - Temas guardados en themes.json
+2025-03-04 14:59:47,897 - INFO - Precio actual de BTCUSDT: 82715.02 USDT
+2025-03-04 14:59:48,157 - INFO - Fast MA: 83212.14, Slow MA: 83691.40
+2025-03-04 15:00:08,042 - INFO - Tema Twilight Forest actualizado correctamente.
+2025-03-04 15:00:08,053 - INFO - Temas guardados en themes.json
+2025-03-04 15:00:18,416 - INFO - Precio actual de BTCUSDT: 82715.99 USDT
+2025-03-04 15:00:18,678 - INFO - Fast MA: 82993.30, Slow MA: 83626.20
+2025-03-04 15:00:48,939 - INFO - Precio actual de BTCUSDT: 82788.45 USDT
+2025-03-04 15:00:49,209 - INFO - Fast MA: 83007.79, Slow MA: 83629.83
+2025-03-04 15:01:19,472 - INFO - Precio actual de BTCUSDT: 82799.75 USDT
+2025-03-04 15:01:19,730 - INFO - Fast MA: 83010.05, Slow MA: 83630.39
+2025-03-04 15:01:49,990 - INFO - Precio actual de BTCUSDT: 82835.47 USDT
+2025-03-04 15:01:50,251 - INFO - Fast MA: 83017.20, Slow MA: 83632.18
+2025-03-04 15:02:20,512 - INFO - Precio actual de BTCUSDT: 82866.03 USDT
+2025-03-04 15:02:20,773 - INFO - Fast MA: 83023.31, Slow MA: 83633.71
+2025-03-04 15:02:51,032 - INFO - Precio actual de BTCUSDT: 82821.36 USDT
+2025-03-04 15:02:51,297 - INFO - Fast MA: 83014.38, Slow MA: 83631.47
+2025-03-04 15:03:22,032 - INFO - Precio actual de BTCUSDT: 82784.00 USDT
+2025-03-04 15:03:22,299 - INFO - Fast MA: 83006.90, Slow MA: 83629.60
+2025-03-04 15:57:25,150 - INFO - Sincronización de tiempo: diferencia de -51 ms con el servidor de Binance.
+2025-03-04 16:32:28,674 - INFO - Sincronización de tiempo: diferencia de -61 ms con el servidor de Binance.
+2025-03-04 16:32:29,135 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 16:32:29,136 - INFO - Temas cargados desde themes.json
+2025-03-04 16:32:31,271 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 16:32:31,543 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 16:32:55,168 - INFO - Strategy updated to: threshold
+2025-03-04 16:32:57,571 - INFO - Bot iniciado manualmente...
+2025-03-04 16:32:57,572 - INFO - Iniciando estrategia: threshold con timeframe: 15m
+2025-03-04 16:32:57,574 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 15m. Resetting variables.
+2025-03-04 16:32:57,834 - INFO - Precio actual de BTCUSDT: 82449.85 USDT
+2025-03-04 16:32:58,094 - INFO - Precio actual: 82449.85, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:32:58,095 - ERROR - Error en la estrategia: 'BinanceBot' object has no attribute 'SYMBOL'
+2025-03-04 16:33:04,578 - INFO - Bot detenido manualmente...
+2025-03-04 16:38:13,046 - INFO - Sincronización de tiempo: diferencia de -61 ms con el servidor de Binance.
+2025-03-04 16:38:13,431 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 16:38:13,433 - INFO - Temas cargados desde themes.json
+2025-03-04 16:38:15,255 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 16:38:15,518 - INFO - Saldo: 17137.38 USDT | 0.913000 BTC
+2025-03-04 16:38:37,386 - INFO - Bot iniciado manualmente...
+2025-03-04 16:38:37,395 - INFO - Iniciando estrategia: moving_average con timeframe: 15m
+2025-03-04 16:38:37,396 - INFO - Strategy changed from moving_average to moving_average or timeframe changed from 1m to 15m. Resetting variables.
+2025-03-04 16:38:37,675 - INFO - Precio actual de BTCUSDT: 82795.41 USDT
+2025-03-04 16:38:37,932 - INFO - Fast MA: 83106.34, Slow MA: 83416.30
+2025-03-04 16:38:43,634 - INFO - Bot detenido manualmente...
+2025-03-04 16:38:46,427 - INFO - Strategy updated to: threshold
+2025-03-04 16:38:55,834 - INFO - Bot iniciado manualmente...
+2025-03-04 16:38:55,836 - INFO - Iniciando estrategia: threshold con timeframe: 15m
+2025-03-04 16:38:55,842 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 15m to 15m. Resetting variables.
+2025-03-04 16:38:56,099 - INFO - Precio actual de BTCUSDT: 82752.78 USDT
+2025-03-04 16:38:56,359 - INFO - Precio actual: 82752.78, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:38:56,617 - INFO - Venta ejecutada (Precio=82752.78): {'symbol': 'BTCUSDT', 'orderId': 15935159, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ78883a306908034fab99b8', 'transactTime': 1741102736557, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.75363000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102736557, 'fills': [{'price': '82753.63000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321542}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:38:56,666 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:39:08,679 - INFO - Precio actual de BTCUSDT: 82742.05 USDT
+2025-03-04 16:39:09,022 - INFO - Precio actual: 82742.05, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:39:09,355 - INFO - Venta ejecutada (Precio=82742.05): {'symbol': 'BTCUSDT', 'orderId': 15935297, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ3923559fd289e1c51ca2ce', 'transactTime': 1741102749274, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.75633000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102749274, 'fills': [{'price': '82756.33000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321598}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:39:09,423 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:39:57,426 - INFO - Precio actual de BTCUSDT: 82700.44 USDT
+2025-03-04 16:39:57,688 - INFO - Precio actual: 82700.44, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:39:57,950 - INFO - Venta ejecutada (Precio=82700.44): {'symbol': 'BTCUSDT', 'orderId': 15935717, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ6424160818d9143e39d3b0', 'transactTime': 1741102797891, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.70638000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102797891, 'fills': [{'price': '82706.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321755}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:39:58,002 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:40:09,695 - INFO - Precio actual de BTCUSDT: 82706.38 USDT
+2025-03-04 16:40:09,996 - INFO - Precio actual: 82706.38, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:40:10,262 - INFO - Venta ejecutada (Precio=82706.38): {'symbol': 'BTCUSDT', 'orderId': 15935857, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ8cf753bb0a604347239b09', 'transactTime': 1741102810196, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.68242000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102810196, 'fills': [{'price': '82682.42000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321796}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:40:10,479 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:40:58,284 - INFO - Precio actual de BTCUSDT: 82650.60 USDT
+2025-03-04 16:40:58,601 - INFO - Precio actual: 82650.60, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:40:58,864 - INFO - Venta ejecutada (Precio=82650.60): {'symbol': 'BTCUSDT', 'orderId': 15936229, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ5082bb9aa48ade987c54d3', 'transactTime': 1741102858805, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.65060000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102858805, 'fills': [{'price': '82650.60000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321892}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:40:58,894 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:41:10,911 - INFO - Precio actual de BTCUSDT: 82653.00 USDT
+2025-03-04 16:41:11,195 - INFO - Precio actual: 82653.00, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:41:11,450 - INFO - Venta ejecutada (Precio=82653.00): {'symbol': 'BTCUSDT', 'orderId': 15936355, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ7a73bac455a90638ca5e8e', 'transactTime': 1741102871410, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.65060000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102871410, 'fills': [{'price': '82650.60000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3321904}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:41:11,514 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:41:59,131 - INFO - Precio actual de BTCUSDT: 83034.25 USDT
+2025-03-04 16:41:59,643 - INFO - Precio actual: 83034.25, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:41:59,904 - INFO - Venta ejecutada (Precio=83034.25): {'symbol': 'BTCUSDT', 'orderId': 15936589, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJd4c285ffeceb07d77163b1', 'transactTime': 1741102919878, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '83.02640000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102919878, 'fills': [{'price': '83026.40000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322014}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:41:59,927 - ERROR - Error en la estrategia: No usable implementation found!
+2025-03-04 16:42:41,075 - INFO - Sincronización de tiempo: diferencia de -23 ms con el servidor de Binance.
+2025-03-04 16:42:41,902 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 16:42:41,904 - INFO - Temas cargados desde themes.json
+2025-03-04 16:42:43,495 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 16:42:43,769 - INFO - Saldo: 17716.60 USDT | 0.906000 BTC
+2025-03-04 16:42:57,051 - INFO - Strategy updated to: threshold
+2025-03-04 16:42:59,614 - INFO - Bot iniciado manualmente...
+2025-03-04 16:42:59,615 - INFO - Iniciando estrategia: threshold con timeframe: 15m
+2025-03-04 16:42:59,617 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 15m. Resetting variables.
+2025-03-04 16:42:59,878 - INFO - Precio actual de BTCUSDT: 82915.19 USDT
+2025-03-04 16:43:00,206 - INFO - Precio actual: 82915.19, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:43:00,936 - INFO - Venta ejecutada (Precio=82915.19): {'symbol': 'BTCUSDT', 'orderId': 15937018, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ8bcdde3146f1abfd525838', 'transactTime': 1741102980912, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.88133000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741102980912, 'fills': [{'price': '82881.33000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322121}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:43:01,065 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:44:01,326 - INFO - Precio actual de BTCUSDT: 82762.20 USDT
+2025-03-04 16:44:01,586 - INFO - Precio actual: 82762.20, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:44:01,849 - INFO - Venta ejecutada (Precio=82762.20): {'symbol': 'BTCUSDT', 'orderId': 15937305, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf56c24a0fbd9a4ebe64b43', 'transactTime': 1741103041827, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.66493000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103041827, 'fills': [{'price': '82664.93000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322207}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:44:01,877 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:45:02,613 - INFO - Precio actual de BTCUSDT: 82778.49 USDT
+2025-03-04 16:45:02,875 - INFO - Precio actual: 82778.49, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:45:03,133 - INFO - Venta ejecutada (Precio=82778.49): {'symbol': 'BTCUSDT', 'orderId': 15937683, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ8362675bc1dd7765bdd049', 'transactTime': 1741103103112, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.77352360', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103103112, 'fills': [{'price': '82773.54000000', 'qty': '0.00018000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322311}, {'price': '82773.52000000', 'qty': '0.00082000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322312}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:45:03,198 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:46:03,457 - INFO - Precio actual de BTCUSDT: 82787.27 USDT
+2025-03-04 16:46:03,730 - INFO - Precio actual: 82787.27, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:46:04,026 - INFO - Venta ejecutada (Precio=82787.27): {'symbol': 'BTCUSDT', 'orderId': 15938068, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJe4f031fab26754ca15c857', 'transactTime': 1741103164005, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.79152800', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103164005, 'fills': [{'price': '82791.78000000', 'qty': '0.00044000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322392}, {'price': '82791.33000000', 'qty': '0.00056000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322393}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:46:04,057 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:47:04,353 - INFO - Precio actual de BTCUSDT: 82836.13 USDT
+2025-03-04 16:47:05,196 - INFO - Precio actual: 82836.13, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:47:06,031 - INFO - Venta ejecutada (Precio=82836.13): {'symbol': 'BTCUSDT', 'orderId': 15938501, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ58b0c9ffd0aa6828ef85d2', 'transactTime': 1741103226013, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.31036000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103226013, 'fills': [{'price': '82310.36000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322547}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:47:06,096 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:48:06,365 - INFO - Precio actual de BTCUSDT: 82921.72 USDT
+2025-03-04 16:48:06,658 - INFO - Precio actual: 82921.72, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:48:06,930 - INFO - Venta ejecutada (Precio=82921.72): {'symbol': 'BTCUSDT', 'orderId': 15938872, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJdd1eef6df259ec0c83c453', 'transactTime': 1741103286914, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.94474000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103286914, 'fills': [{'price': '82944.74000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322651}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:48:07,192 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:49:07,468 - INFO - Precio actual de BTCUSDT: 82919.41 USDT
+2025-03-04 16:49:07,738 - INFO - Precio actual: 82919.41, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:49:07,994 - INFO - Venta ejecutada (Precio=82919.41): {'symbol': 'BTCUSDT', 'orderId': 15939201, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJe8d852362de3206a23ea39', 'transactTime': 1741103347980, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.94994000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103347980, 'fills': [{'price': '82949.94000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322748}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:49:08,026 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:49:53,363 - INFO - Sincronización de tiempo: diferencia de -12 ms con el servidor de Binance.
+2025-03-04 16:49:53,915 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 16:49:53,917 - INFO - Temas cargados desde themes.json
+2025-03-04 16:49:55,661 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 16:49:55,938 - INFO - Saldo: 18295.92 USDT | 0.899000 BTC
+2025-03-04 16:50:07,848 - INFO - Strategy updated to: threshold
+2025-03-04 16:50:10,907 - INFO - Timeframe updated to: 5m
+2025-03-04 16:50:10,909 - INFO - Configuración guardada en bot_config.json
+2025-03-04 16:50:13,647 - INFO - Bot iniciado manualmente...
+2025-03-04 16:50:13,648 - INFO - Iniciando estrategia: threshold con timeframe: 5m
+2025-03-04 16:50:13,650 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 5m. Resetting variables.
+2025-03-04 16:50:13,993 - INFO - Precio actual de BTCUSDT: 82941.72 USDT
+2025-03-04 16:50:14,273 - INFO - Precio actual: 82941.72, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:50:14,532 - INFO - Venta ejecutada (Precio=82941.72): {'symbol': 'BTCUSDT', 'orderId': 15939549, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJa2f7b8fe6cb33d4f5afb60', 'transactTime': 1741103414518, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.91587000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103414518, 'fills': [{'price': '82915.87000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322839}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:50:14,636 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:51:15,399 - INFO - Precio actual de BTCUSDT: 82898.42 USDT
+2025-03-04 16:51:16,136 - INFO - Precio actual: 82898.42, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:51:16,390 - INFO - Venta ejecutada (Precio=82898.42): {'symbol': 'BTCUSDT', 'orderId': 15939914, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJa336f73db151429ee0937a', 'transactTime': 1741103476380, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.88319000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103476380, 'fills': [{'price': '82883.19000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3322932}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:51:16,421 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:52:16,694 - INFO - Precio actual de BTCUSDT: 82816.17 USDT
+2025-03-04 16:52:17,448 - INFO - Precio actual: 82816.17, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:52:17,703 - INFO - Venta ejecutada (Precio=82816.17): {'symbol': 'BTCUSDT', 'orderId': 15940384, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJfd0bd21fd26629c2008b3a', 'transactTime': 1741103537694, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.83438000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103537694, 'fills': [{'price': '82834.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323031}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:52:17,734 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:53:18,022 - INFO - Precio actual de BTCUSDT: 82939.00 USDT
+2025-03-04 16:53:18,333 - INFO - Precio actual: 82939.00, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:53:18,596 - INFO - Venta ejecutada (Precio=82939.00): {'symbol': 'BTCUSDT', 'orderId': 15940772, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf74c4948c5c3828a45cc8a', 'transactTime': 1741103598588, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.97798000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103598588, 'fills': [{'price': '82977.98000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323195}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:53:18,625 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:54:19,376 - INFO - Precio actual de BTCUSDT: 82783.87 USDT
+2025-03-04 16:54:19,641 - INFO - Precio actual: 82783.87, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:54:19,900 - INFO - Venta ejecutada (Precio=82783.87): {'symbol': 'BTCUSDT', 'orderId': 15941074, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJb07e899dfb21d3821a719d', 'transactTime': 1741103659890, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.71530000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103659890, 'fills': [{'price': '82715.30000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323281}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:54:19,931 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:55:20,677 - INFO - Precio actual de BTCUSDT: 82723.28 USDT
+2025-03-04 16:55:20,946 - INFO - Precio actual: 82723.28, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:55:21,209 - INFO - Venta ejecutada (Precio=82723.28): {'symbol': 'BTCUSDT', 'orderId': 15941354, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ1c2af29054cdd260eaafbf', 'transactTime': 1741103721201, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.68831000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103721201, 'fills': [{'price': '82688.31000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323368}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:55:21,238 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:56:21,534 - INFO - Precio actual de BTCUSDT: 82102.43 USDT
+2025-03-04 16:56:21,803 - INFO - Precio actual: 82102.43, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:56:22,065 - INFO - Venta ejecutada (Precio=82102.43): {'symbol': 'BTCUSDT', 'orderId': 15941743, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ6fe1395aa481b772811200', 'transactTime': 1741103782121, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '81.38792000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103782121, 'fills': [{'price': '81387.92000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323469}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:56:22,104 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:57:22,486 - INFO - Precio actual de BTCUSDT: 82824.36 USDT
+2025-03-04 16:57:22,919 - INFO - Precio actual: 82824.36, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 16:57:23,201 - INFO - Venta ejecutada (Precio=82824.36): {'symbol': 'BTCUSDT', 'orderId': 15942140, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ3a2393e48e15f7d7f1aa3', 'transactTime': 1741103843251, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.79669020', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741103843251, 'fills': [{'price': '82796.71000000', 'qty': '0.00001000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323642}, {'price': '82796.69000000', 'qty': '0.00099000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3323643}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 16:57:23,741 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 16:57:44,316 - INFO - Bot pausado.
+2025-03-04 17:05:02,094 - INFO - Sincronización de tiempo: diferencia de 84 ms con el servidor de Binance.
+2025-03-04 17:05:02,475 - ERROR - Error al ejecutar el programa: 'BinanceBot' object has no attribute 'load_config'
+2025-03-04 17:17:35,611 - INFO - Sincronización de tiempo: diferencia de 59 ms con el servidor de Binance.
+2025-03-04 17:17:35,955 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 17:17:35,956 - INFO - Temas cargados desde themes.json
+2025-03-04 17:17:35,957 - INFO - Configuración guardada en bot_config.json
+2025-03-04 17:17:37,519 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 17:17:38,273 - INFO - Saldo: 18957.12 USDT | 0.891000 BTC
+2025-03-04 17:17:57,931 - INFO - Strategy updated to: threshold
+2025-03-04 17:18:00,929 - INFO - Bot iniciado manualmente...
+2025-03-04 17:18:23,893 - INFO - Strategy updated to: moving_average
+2025-03-04 17:18:26,211 - INFO - Bot pausado.
+2025-03-04 17:18:27,082 - ERROR - El bot no está en ejecución o ya está pausado.
+2025-03-04 17:18:32,206 - ERROR - El bot ya está en ejecución.
+2025-03-04 17:18:44,799 - INFO - Bot detenido manualmente...
+2025-03-04 17:18:48,071 - INFO - Strategy updated to: wyckoff
+2025-03-04 17:18:50,374 - INFO - Bot iniciado manualmente...
+2025-03-04 17:26:02,225 - INFO - Sincronización de tiempo: diferencia de 76 ms con el servidor de Binance.
+2025-03-04 17:26:03,064 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 17:26:03,065 - INFO - Temas cargados desde themes.json
+2025-03-04 17:26:03,066 - INFO - Configuración guardada en bot_config.json
+2025-03-04 17:26:04,796 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 17:26:05,065 - INFO - Saldo: 18957.12 USDT | 0.891000 BTC
+2025-03-04 17:26:12,918 - INFO - Strategy updated to: threshold
+2025-03-04 17:26:16,021 - INFO - Bot iniciado manualmente...
+2025-03-04 17:26:16,022 - INFO - Iniciando estrategia: threshold con timeframe: 5m
+2025-03-04 17:26:16,023 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 5m. Resetting variables.
+2025-03-04 17:26:16,308 - INFO - Precio actual de BTCUSDT: 82511.77 USDT
+2025-03-04 17:26:16,572 - INFO - Precio actual: 82511.77, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:26:16,827 - INFO - Venta ejecutada (Precio=82511.77): {'symbol': 'BTCUSDT', 'orderId': 15952344, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ443c6568a4308aa11199a6', 'transactTime': 1741105576902, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.61318000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105576902, 'fills': [{'price': '82613.18000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3326820}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:26:16,919 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 17:27:17,191 - INFO - Precio actual de BTCUSDT: 82710.24 USDT
+2025-03-04 17:27:17,466 - INFO - Precio actual: 82710.24, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:27:17,727 - INFO - Venta ejecutada (Precio=82710.24): {'symbol': 'BTCUSDT', 'orderId': 15952694, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf7519db8af5d618f6eff0b', 'transactTime': 1741105637801, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.72730000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105637801, 'fills': [{'price': '82727.30000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3326928}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:27:17,758 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 17:28:18,026 - INFO - Precio actual de BTCUSDT: 82447.51 USDT
+2025-03-04 17:28:18,294 - INFO - Precio actual: 82447.51, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:28:18,551 - INFO - Venta ejecutada (Precio=82447.51): {'symbol': 'BTCUSDT', 'orderId': 15953046, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJc020cefaebfbbc0c913b91', 'transactTime': 1741105698629, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.44731000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105698629, 'fills': [{'price': '82447.31000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3327051}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:28:18,583 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 17:29:18,922 - INFO - Precio actual de BTCUSDT: 82377.33 USDT
+2025-03-04 17:29:19,208 - INFO - Precio actual: 82377.33, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:29:19,473 - INFO - Venta ejecutada (Precio=82377.33): {'symbol': 'BTCUSDT', 'orderId': 15953302, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ1801d35138676548324853', 'transactTime': 1741105759508, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.34581000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105759508, 'fills': [{'price': '82345.81000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3327134}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:29:19,508 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 17:30:20,256 - INFO - Precio actual de BTCUSDT: 82344.88 USDT
+2025-03-04 17:30:20,529 - INFO - Precio actual: 82344.88, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:30:20,785 - INFO - Venta ejecutada (Precio=82344.88): {'symbol': 'BTCUSDT', 'orderId': 15953653, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ51008b277cd6ecd246b0bb', 'transactTime': 1741105820819, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.15416000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105820819, 'fills': [{'price': '82154.16000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3327223}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:30:20,894 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 17:31:21,652 - INFO - Precio actual de BTCUSDT: 82154.34 USDT
+2025-03-04 17:31:21,926 - INFO - Precio actual: 82154.34, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 17:31:22,183 - INFO - Venta ejecutada (Precio=82154.34): {'symbol': 'BTCUSDT', 'orderId': 15954044, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ7cf0a566631617b83df251', 'transactTime': 1741105882217, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '82.14280000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741105882217, 'fills': [{'price': '82142.80000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3327348}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 17:31:22,267 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 18:13:05,405 - INFO - Sincronización de tiempo: diferencia de -47 ms con el servidor de Binance.
+2025-03-04 18:13:06,231 - ERROR - Error al ejecutar el programa: 'BinanceBot' object has no attribute 'use_gui'
+2025-03-04 18:18:18,487 - INFO - Sincronización de tiempo: diferencia de -55 ms con el servidor de Binance.
+2025-03-04 18:18:18,847 - ERROR - Error: Widgets de la GUI no inicializados correctamente.
+2025-03-04 18:18:19,576 - ERROR - Error al crear la interfaz gráfica: 'BinanceBot' object has no attribute 'themes'
+2025-03-04 18:25:58,658 - INFO - Sincronización de tiempo: diferencia de -65 ms con el servidor de Binance.
+2025-03-04 18:25:59,025 - ERROR - Error: Widgets de la GUI no inicializados correctamente.
+2025-03-04 18:25:59,735 - ERROR - Error al crear la interfaz gráfica: 'BinanceBot' object has no attribute 'themes'
+2025-03-04 18:30:19,885 - INFO - Sincronización de tiempo: diferencia de -62 ms con el servidor de Binance.
+2025-03-04 18:30:20,237 - ERROR - Error: Widgets de la GUI no inicializados correctamente.
+2025-03-04 18:30:20,917 - ERROR - Error al crear la interfaz gráfica: 'BinanceBot' object has no attribute 'themes'
+2025-03-04 18:56:14,404 - INFO - Sincronización de tiempo: diferencia de 9 ms con el servidor de Binance.
+2025-03-04 18:56:14,798 - ERROR - Error al ejecutar el programa: name 'scrolledtext' is not defined
+2025-03-04 19:01:30,875 - INFO - Sincronización de tiempo: diferencia de 17 ms con el servidor de Binance.
+2025-03-04 19:01:32,242 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 19:01:32,246 - INFO - Temas cargados desde themes.json
+2025-03-04 19:01:32,250 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 19:01:32,253 - INFO - Temas cargados desde themes.json
+2025-03-04 19:01:33,716 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 19:01:34,464 - INFO - Saldo: 19451.55 USDT | 0.885000 BTC
+2025-03-04 19:04:14,692 - INFO - Strategy updated to: threshold
+2025-03-04 19:04:17,214 - INFO - Bot iniciado manualmente...
+2025-03-04 19:04:17,215 - INFO - Iniciando estrategia: threshold con timeframe: 5m
+2025-03-04 19:04:17,216 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 5m. Resetting variables.
+2025-03-04 19:04:17,475 - INFO - Precio actual de BTCUSDT: 85502.13 USDT
+2025-03-04 19:04:17,731 - INFO - Precio actual: 85502.13, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:04:17,985 - INFO - Venta ejecutada (Precio=85502.13): {'symbol': 'BTCUSDT', 'orderId': 15988063, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ9ebe9a7a37b5fb7e490044', 'transactTime': 1741111458008, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.19476000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111458008, 'fills': [{'price': '85194.76000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3338849}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:04:18,091 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 19:05:18,424 - INFO - Precio actual de BTCUSDT: 85428.57 USDT
+2025-03-04 19:05:18,688 - INFO - Precio actual: 85428.57, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:05:18,946 - INFO - Venta ejecutada (Precio=85428.57): {'symbol': 'BTCUSDT', 'orderId': 15988447, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJcec9cadc33b5281ec42920', 'transactTime': 1741111518923, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.42000000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111518923, 'fills': [{'price': '85420.00000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3338931}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:05:18,980 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 19:06:19,351 - INFO - Precio actual de BTCUSDT: 85563.07 USDT
+2025-03-04 19:06:19,619 - INFO - Precio actual: 85563.07, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:06:19,964 - INFO - Venta ejecutada (Precio=85563.07): {'symbol': 'BTCUSDT', 'orderId': 15988848, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf2b55aa42fddad5f64e382', 'transactTime': 1741111579852, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.54598000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111579852, 'fills': [{'price': '85545.98000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3339071}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:06:19,988 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 19:07:20,733 - INFO - Precio actual de BTCUSDT: 85538.26 USDT
+2025-03-04 19:07:21,005 - INFO - Precio actual: 85538.26, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:07:21,276 - INFO - Venta ejecutada (Precio=85538.26): {'symbol': 'BTCUSDT', 'orderId': 15989284, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ8f3d8d3c4d5ae493363a27', 'transactTime': 1741111641250, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.55568000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111641250, 'fills': [{'price': '85555.68000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3339233}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:07:21,307 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 19:08:22,070 - INFO - Precio actual de BTCUSDT: 85647.16 USDT
+2025-03-04 19:08:22,346 - INFO - Precio actual: 85647.16, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:08:22,648 - INFO - Venta ejecutada (Precio=85647.16): {'symbol': 'BTCUSDT', 'orderId': 15989698, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ619d3ec2d9b626e751d5c7', 'transactTime': 1741111702625, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.64734000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111702625, 'fills': [{'price': '85647.34000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3339360}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:08:22,713 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 19:09:23,455 - INFO - Precio actual de BTCUSDT: 85679.99 USDT
+2025-03-04 19:09:23,723 - INFO - Precio actual: 85679.99, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-04 19:09:23,984 - INFO - Venta ejecutada (Precio=85679.99): {'symbol': 'BTCUSDT', 'orderId': 15990099, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJbbbcb282b7e4f1744cf093', 'transactTime': 1741111763958, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '85.67253000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741111763958, 'fills': [{'price': '85672.53000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3339496}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-04 19:09:24,010 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-04 21:58:59,252 - INFO - Sincronización de tiempo: diferencia de 37 ms con el servidor de Binance.
+2025-03-04 21:59:00,488 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 21:59:00,493 - INFO - Temas cargados desde themes.json
+2025-03-04 21:59:00,497 - INFO - Configuración cargada desde bot_config.json
+2025-03-04 21:59:00,501 - INFO - Temas cargados desde themes.json
+2025-03-04 21:59:02,037 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-04 21:59:02,779 - INFO - Saldo: 21079.79 USDT | 0.866000 BTC
+2025-03-04 22:00:29,110 - ERROR - Error al guardar el tema: Too early to use font.families(): no default root window
+2025-03-05 02:06:46,551 - INFO - Sincronización de tiempo: diferencia de -35 ms con el servidor de Binance.
+2025-03-05 02:06:48,134 - INFO - Configuración cargada desde bot_config.json
+2025-03-05 02:06:48,156 - INFO - Temas cargados desde themes.json
+2025-03-05 02:06:48,162 - INFO - Configuración cargada desde bot_config.json
+2025-03-05 02:06:48,167 - INFO - Temas cargados desde themes.json
+2025-03-05 02:06:50,303 - INFO - Conexión con Binance Testnet establecida correctamente.
+2025-03-05 02:06:50,572 - INFO - Saldo: 21079.79 USDT | 0.866000 BTC
+2025-03-05 02:07:02,761 - INFO - Strategy updated to: threshold
+2025-03-05 02:07:07,895 - INFO - Timeframe updated to: 15m
+2025-03-05 02:07:07,897 - INFO - Configuración guardada en bot_config.json
+2025-03-05 02:07:18,912 - INFO - Symbol updated to: BTCUSDT
+2025-03-05 02:07:18,922 - INFO - Configuración guardada en bot_config.json
+2025-03-05 02:08:16,358 - INFO - Bot iniciado manualmente...
+2025-03-05 02:08:16,359 - INFO - Iniciando estrategia: threshold con timeframe: 15m
+2025-03-05 02:08:16,363 - INFO - Strategy changed from moving_average to threshold or timeframe changed from 1m to 15m. Resetting variables.
+2025-03-05 02:08:16,622 - INFO - Precio actual de BTCUSDT: 86596.33 USDT
+2025-03-05 02:08:16,881 - INFO - Precio actual: 86596.33, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:08:17,916 - INFO - Venta ejecutada (Precio=86596.33): {'symbol': 'BTCUSDT', 'orderId': 16158762, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJc0320a2b562b767c2fe301', 'transactTime': 1741136897103, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.70075000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741136897103, 'fills': [{'price': '86700.75000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3382789}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:08:18,118 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:09:18,381 - INFO - Precio actual de BTCUSDT: 86779.01 USDT
+2025-03-05 02:09:18,655 - INFO - Precio actual: 86779.01, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:09:18,913 - INFO - Venta ejecutada (Precio=86779.01): {'symbol': 'BTCUSDT', 'orderId': 16159206, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ7c0da88f6c87a674b4e7e7', 'transactTime': 1741136958881, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.55720000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741136958881, 'fills': [{'price': '86557.20000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3382908}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:09:20,306 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:10:20,597 - INFO - Precio actual de BTCUSDT: 86770.46 USDT
+2025-03-05 02:10:20,894 - INFO - Precio actual: 86770.46, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:10:21,151 - INFO - Venta ejecutada (Precio=86770.46): {'symbol': 'BTCUSDT', 'orderId': 16159584, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ208d100161dfe2c7ce2cc2', 'transactTime': 1741137021120, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.78377000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137021120, 'fills': [{'price': '86783.77000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383029}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:10:22,465 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:11:23,235 - INFO - Precio actual de BTCUSDT: 86877.68 USDT
+2025-03-05 02:11:24,049 - INFO - Precio actual: 86877.68, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:11:24,572 - INFO - Venta ejecutada (Precio=86877.68): {'symbol': 'BTCUSDT', 'orderId': 16160005, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ5a7313aba7cfa5fb8f5995', 'transactTime': 1741137084274, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.87698790', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137084274, 'fills': [{'price': '86877.00000000', 'qty': '0.00089000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383163}, {'price': '86876.89000000', 'qty': '0.00011000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383164}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:11:24,623 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:12:25,362 - INFO - Precio actual de BTCUSDT: 86906.50 USDT
+2025-03-05 02:12:25,630 - INFO - Precio actual: 86906.50, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:12:25,928 - INFO - Venta ejecutada (Precio=86906.50): {'symbol': 'BTCUSDT', 'orderId': 16160437, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJc0ae503c2434c93c5ec77a', 'transactTime': 1741137145897, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.84549000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137145897, 'fills': [{'price': '86845.49000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383281}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:12:27,405 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:13:28,234 - INFO - Precio actual de BTCUSDT: 86859.50 USDT
+2025-03-05 02:13:28,707 - INFO - Precio actual: 86859.50, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:13:29,051 - INFO - Venta ejecutada (Precio=86859.50): {'symbol': 'BTCUSDT', 'orderId': 16160817, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJe1c078a9b8903583d759a6', 'transactTime': 1741137208933, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.83776000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137208933, 'fills': [{'price': '86837.76000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383427}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:13:33,114 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:14:33,381 - INFO - Precio actual de BTCUSDT: 86860.83 USDT
+2025-03-05 02:14:34,111 - INFO - Precio actual: 86860.83, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:14:34,368 - INFO - Venta ejecutada (Precio=86860.83): {'symbol': 'BTCUSDT', 'orderId': 16161202, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ5734025cbee3e811ebb377', 'transactTime': 1741137274338, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.88238000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137274338, 'fills': [{'price': '86882.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383538}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:14:34,414 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:15:35,198 - INFO - Precio actual de BTCUSDT: 86920.70 USDT
+2025-03-05 02:15:35,731 - INFO - Precio actual: 86920.70, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:15:35,993 - INFO - Venta ejecutada (Precio=86920.70): {'symbol': 'BTCUSDT', 'orderId': 16161575, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJe19ccb4e42ed92dd94b517', 'transactTime': 1741137335964, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.90361000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137335964, 'fills': [{'price': '86903.61000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383668}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:15:36,057 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:16:36,832 - INFO - Precio actual de BTCUSDT: 86923.70 USDT
+2025-03-05 02:16:37,097 - INFO - Precio actual: 86923.70, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:16:37,355 - INFO - Venta ejecutada (Precio=86923.70): {'symbol': 'BTCUSDT', 'orderId': 16161898, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJd8134e17d106513d0c331a', 'transactTime': 1741137397324, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.92370000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137397324, 'fills': [{'price': '86923.70000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383745}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:16:38,566 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:17:39,305 - INFO - Precio actual de BTCUSDT: 87056.01 USDT
+2025-03-05 02:17:40,044 - INFO - Precio actual: 87056.01, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:17:40,304 - INFO - Venta ejecutada (Precio=87056.01): {'symbol': 'BTCUSDT', 'orderId': 16162305, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ6e769cff305f9760717135', 'transactTime': 1741137460275, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.96494000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137460275, 'fills': [{'price': '86964.94000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383872}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:17:40,817 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:18:41,592 - INFO - Precio actual de BTCUSDT: 86935.35 USDT
+2025-03-05 02:18:41,856 - INFO - Precio actual: 86935.35, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:18:42,625 - INFO - Venta ejecutada (Precio=86935.35): {'symbol': 'BTCUSDT', 'orderId': 16162793, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf5615d9a8d30328dca1254', 'transactTime': 1741137522597, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.93534000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137522597, 'fills': [{'price': '86935.34000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3383976}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:18:42,721 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:19:43,469 - INFO - Precio actual de BTCUSDT: 86879.19 USDT
+2025-03-05 02:19:43,729 - INFO - Precio actual: 86879.19, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:19:43,992 - INFO - Venta ejecutada (Precio=86879.19): {'symbol': 'BTCUSDT', 'orderId': 16163229, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf1a32645ccf89bad38d4d3', 'transactTime': 1741137583964, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.89186000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137583964, 'fills': [{'price': '86891.86000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384114}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:19:44,977 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:20:45,721 - INFO - Precio actual de BTCUSDT: 86876.47 USDT
+2025-03-05 02:20:46,453 - INFO - Precio actual: 86876.47, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:20:46,713 - INFO - Venta ejecutada (Precio=86876.47): {'symbol': 'BTCUSDT', 'orderId': 16163744, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJd98e42a66341e79754e4bd', 'transactTime': 1741137646684, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.87600000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137646684, 'fills': [{'price': '86876.00000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384278}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:20:47,735 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:21:48,474 - INFO - Precio actual de BTCUSDT: 87022.97 USDT
+2025-03-05 02:21:48,741 - INFO - Precio actual: 87022.97, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:21:48,997 - INFO - Venta ejecutada (Precio=87022.97): {'symbol': 'BTCUSDT', 'orderId': 16164117, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJb346680708ffd867bbaa69', 'transactTime': 1741137708970, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.02338000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137708970, 'fills': [{'price': '87023.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384391}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:21:51,171 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:22:51,435 - INFO - Precio actual de BTCUSDT: 86981.13 USDT
+2025-03-05 02:22:51,695 - INFO - Precio actual: 86981.13, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:22:51,952 - INFO - Venta ejecutada (Precio=86981.13): {'symbol': 'BTCUSDT', 'orderId': 16164453, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ39f248f0769df878795220', 'transactTime': 1741137771925, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.98885000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137771925, 'fills': [{'price': '86988.85000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384465}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:22:52,130 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:23:52,403 - INFO - Precio actual de BTCUSDT: 86924.00 USDT
+2025-03-05 02:23:52,675 - INFO - Precio actual: 86924.00, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:23:52,932 - INFO - Venta ejecutada (Precio=86924.00): {'symbol': 'BTCUSDT', 'orderId': 16164745, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJaaad0fc75ab6be0411d56a', 'transactTime': 1741137832905, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '86.92503000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137832905, 'fills': [{'price': '86925.03000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384572}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:23:53,079 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:24:53,861 - INFO - Precio actual de BTCUSDT: 87052.95 USDT
+2025-03-05 02:24:54,130 - INFO - Precio actual: 87052.95, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:24:54,389 - INFO - Venta ejecutada (Precio=87052.95): {'symbol': 'BTCUSDT', 'orderId': 16165115, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJf5c9be68fc60e5e345d8bd', 'transactTime': 1741137894364, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.05658000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137894364, 'fills': [{'price': '87056.58000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384715}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:24:56,034 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:25:56,331 - INFO - Precio actual de BTCUSDT: 87030.57 USDT
+2025-03-05 02:25:56,597 - INFO - Precio actual: 87030.57, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:25:57,330 - INFO - Venta ejecutada (Precio=87030.57): {'symbol': 'BTCUSDT', 'orderId': 16165589, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJcc2f85095e793c28de9db1', 'transactTime': 1741137957304, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.04765000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741137957304, 'fills': [{'price': '87047.65000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3384869}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:25:57,382 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:26:57,677 - INFO - Precio actual de BTCUSDT: 87003.00 USDT
+2025-03-05 02:26:58,046 - INFO - Precio actual: 87003.00, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:26:58,300 - INFO - Venta ejecutada (Precio=87003.00): {'symbol': 'BTCUSDT', 'orderId': 16166099, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ31a7e89330b5237952ca3d', 'transactTime': 1741138018276, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.00406000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138018276, 'fills': [{'price': '87004.06000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385010}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:26:59,434 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:27:59,703 - INFO - Precio actual de BTCUSDT: 87232.20 USDT
+2025-03-05 02:27:59,984 - INFO - Precio actual: 87232.20, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:28:01,045 - INFO - Venta ejecutada (Precio=87232.20): {'symbol': 'BTCUSDT', 'orderId': 16166575, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ569483e1f170c7b018da32', 'transactTime': 1741138080216, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.26103010', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138080216, 'fills': [{'price': '87261.04000000', 'qty': '0.00001000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385172}, {'price': '87261.03000000', 'qty': '0.00099000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385173}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:28:01,103 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:29:01,947 - INFO - Precio actual de BTCUSDT: 87327.69 USDT
+2025-03-05 02:29:02,210 - INFO - Precio actual: 87327.69, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:29:02,952 - INFO - Venta ejecutada (Precio=87327.69): {'symbol': 'BTCUSDT', 'orderId': 16166924, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJb6161e8f11ca4ed233838d', 'transactTime': 1741138142924, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.31919000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138142924, 'fills': [{'price': '87319.19000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385278}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:29:03,033 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:30:03,369 - INFO - Precio actual de BTCUSDT: 87331.19 USDT
+2025-03-05 02:30:03,635 - INFO - Precio actual: 87331.19, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:30:03,929 - INFO - Venta ejecutada (Precio=87331.19): {'symbol': 'BTCUSDT', 'orderId': 16167320, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ1efc3da5d991412131eb17', 'transactTime': 1741138203906, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.29925000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138203906, 'fills': [{'price': '87299.25000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385346}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:30:04,688 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:31:04,956 - INFO - Precio actual de BTCUSDT: 87299.90 USDT
+2025-03-05 02:31:05,217 - INFO - Precio actual: 87299.90, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:31:05,474 - INFO - Venta ejecutada (Precio=87299.90): {'symbol': 'BTCUSDT', 'orderId': 16167765, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJab6f3044f4176af3e3f2a0', 'transactTime': 1741138265450, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.25538000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138265450, 'fills': [{'price': '87255.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385442}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:31:06,999 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:32:07,265 - INFO - Precio actual de BTCUSDT: 87229.98 USDT
+2025-03-05 02:32:07,532 - INFO - Precio actual: 87229.98, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:32:07,796 - INFO - Venta ejecutada (Precio=87229.98): {'symbol': 'BTCUSDT', 'orderId': 16168223, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJb761b56a4529b39952b87b', 'transactTime': 1741138327770, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.22995000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138327770, 'fills': [{'price': '87229.95000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385581}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:32:09,497 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:33:09,767 - INFO - Precio actual de BTCUSDT: 87218.94 USDT
+2025-03-05 02:33:10,030 - INFO - Precio actual: 87218.94, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:33:10,294 - INFO - Venta ejecutada (Precio=87218.94): {'symbol': 'BTCUSDT', 'orderId': 16168545, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ607a275fc45941a225a841', 'transactTime': 1741138390271, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.21789000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138390271, 'fills': [{'price': '87217.89000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385684}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:33:14,655 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:34:14,952 - INFO - Precio actual de BTCUSDT: 87319.83 USDT
+2025-03-05 02:34:15,213 - INFO - Precio actual: 87319.83, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:34:15,477 - INFO - Venta ejecutada (Precio=87319.83): {'symbol': 'BTCUSDT', 'orderId': 16168967, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ4a41d4d8795b8699fb27d0', 'transactTime': 1741138455450, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.31978000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138455450, 'fills': [{'price': '87319.78000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385805}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:34:17,511 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:35:17,782 - INFO - Precio actual de BTCUSDT: 87340.03 USDT
+2025-03-05 02:35:18,045 - INFO - Precio actual: 87340.03, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:35:18,307 - INFO - Venta ejecutada (Precio=87340.03): {'symbol': 'BTCUSDT', 'orderId': 16169260, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ1805f7492a28dd8d1ecf89', 'transactTime': 1741138518279, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.45228000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138518279, 'fills': [{'price': '87452.28000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3385889}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:35:18,572 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:36:18,877 - INFO - Precio actual de BTCUSDT: 87479.12 USDT
+2025-03-05 02:36:19,149 - INFO - Precio actual: 87479.12, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:36:19,405 - INFO - Venta ejecutada (Precio=87479.12): {'symbol': 'BTCUSDT', 'orderId': 16169704, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ489e9655b8d6ca0ebcf5d5', 'transactTime': 1741138579385, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.48794000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138579385, 'fills': [{'price': '87487.94000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386017}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:36:19,629 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:37:19,952 - INFO - Precio actual de BTCUSDT: 87493.59 USDT
+2025-03-05 02:37:20,754 - INFO - Precio actual: 87493.59, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:37:21,021 - INFO - Venta ejecutada (Precio=87493.59): {'symbol': 'BTCUSDT', 'orderId': 16170050, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ3eb05e70304f31216fb31e', 'transactTime': 1741138640971, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.49346000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138640971, 'fills': [{'price': '87493.46000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386111}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:37:22,592 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:38:22,910 - INFO - Precio actual de BTCUSDT: 87426.48 USDT
+2025-03-05 02:38:23,180 - INFO - Precio actual: 87426.48, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:38:23,910 - INFO - Venta ejecutada (Precio=87426.48): {'symbol': 'BTCUSDT', 'orderId': 16170396, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJd85b6c6961a9efd34673f9', 'transactTime': 1741138703842, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.42646000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138703842, 'fills': [{'price': '87426.46000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386192}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:38:24,311 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:39:25,057 - INFO - Precio actual de BTCUSDT: 87405.10 USDT
+2025-03-05 02:39:25,325 - INFO - Precio actual: 87405.10, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:39:25,618 - INFO - Venta ejecutada (Precio=87405.10): {'symbol': 'BTCUSDT', 'orderId': 16170792, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJef5c893e88abd99941c357', 'transactTime': 1741138765551, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.39320000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138765551, 'fills': [{'price': '87393.20000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386256}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:39:25,693 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:40:26,469 - INFO - Precio actual de BTCUSDT: 87417.82 USDT
+2025-03-05 02:40:26,729 - INFO - Precio actual: 87417.82, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:40:26,986 - INFO - Venta ejecutada (Precio=87417.82): {'symbol': 'BTCUSDT', 'orderId': 16171162, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ61f868d3e1b3b6951493d2', 'transactTime': 1741138826919, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.41782000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138826919, 'fills': [{'price': '87417.82000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386355}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:40:27,663 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:41:27,933 - INFO - Precio actual de BTCUSDT: 87357.25 USDT
+2025-03-05 02:41:28,192 - INFO - Precio actual: 87357.25, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:41:28,449 - INFO - Venta ejecutada (Precio=87357.25): {'symbol': 'BTCUSDT', 'orderId': 16171614, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ7e91944d559eea181be78f', 'transactTime': 1741138888383, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.34775000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138888383, 'fills': [{'price': '87347.75000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386405}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:41:28,507 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:42:29,286 - INFO - Precio actual de BTCUSDT: 87348.23 USDT
+2025-03-05 02:42:29,548 - INFO - Precio actual: 87348.23, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:42:29,807 - INFO - Venta ejecutada (Precio=87348.23): {'symbol': 'BTCUSDT', 'orderId': 16171980, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ63bcfbee80363899420fed', 'transactTime': 1741138949741, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.34823000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741138949741, 'fills': [{'price': '87348.23000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386453}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:42:29,856 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:43:30,124 - INFO - Precio actual de BTCUSDT: 87396.25 USDT
+2025-03-05 02:43:30,396 - INFO - Precio actual: 87396.25, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:43:30,650 - INFO - Venta ejecutada (Precio=87396.25): {'symbol': 'BTCUSDT', 'orderId': 16172467, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ3289377615e208abc631c4', 'transactTime': 1741139010584, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.45929000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139010584, 'fills': [{'price': '87459.29000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386545}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:43:32,266 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:44:32,569 - INFO - Precio actual de BTCUSDT: 87467.25 USDT
+2025-03-05 02:44:32,843 - INFO - Precio actual: 87467.25, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:44:33,098 - INFO - Venta ejecutada (Precio=87467.25): {'symbol': 'BTCUSDT', 'orderId': 16172737, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ4461627a74d7261010ef63', 'transactTime': 1741139073033, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.46289000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139073033, 'fills': [{'price': '87462.89000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386614}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:44:33,152 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:45:33,456 - INFO - Precio actual de BTCUSDT: 87302.25 USDT
+2025-03-05 02:45:33,912 - INFO - Precio actual: 87302.25, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:45:34,181 - INFO - Venta ejecutada (Precio=87302.25): {'symbol': 'BTCUSDT', 'orderId': 16173093, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJae2b5c16a003b19a413b0b', 'transactTime': 1741139134116, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.49301000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139134116, 'fills': [{'price': '87493.01000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386727}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:45:44,020 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:46:44,764 - INFO - Precio actual de BTCUSDT: 87416.82 USDT
+2025-03-05 02:46:45,026 - INFO - Precio actual: 87416.82, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:46:45,285 - INFO - Venta ejecutada (Precio=87416.82): {'symbol': 'BTCUSDT', 'orderId': 16173514, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ793d54862f6d6cfa4c5b51', 'transactTime': 1741139205219, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.41891000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139205219, 'fills': [{'price': '87418.91000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386822}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:46:45,529 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:47:45,821 - INFO - Precio actual de BTCUSDT: 87413.78 USDT
+2025-03-05 02:47:46,081 - INFO - Precio actual: 87413.78, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:47:46,345 - INFO - Venta ejecutada (Precio=87413.78): {'symbol': 'BTCUSDT', 'orderId': 16174018, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ1b25ca62022ec6160a53a1', 'transactTime': 1741139266277, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.41377000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139266277, 'fills': [{'price': '87413.77000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386879}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:47:48,934 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'
+2025-03-05 02:48:49,245 - INFO - Precio actual de BTCUSDT: 87407.79 USDT
+2025-03-05 02:48:50,140 - INFO - Precio actual: 87407.79, Soporte: 49000.00, Resistencia: 51000.00
+2025-03-05 02:48:50,421 - INFO - Venta ejecutada (Precio=87407.79): {'symbol': 'BTCUSDT', 'orderId': 16174513, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJ90283efcfd60e279b31e23', 'transactTime': 1741139330357, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '87.41108000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'workingTime': 1741139330357, 'fills': [{'price': '87411.08000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'USDT', 'tradeId': 3386961}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2025-03-05 02:48:50,497 - ERROR - Error en la estrategia: 'NoneType' object has no attribute 'setDelegate_'

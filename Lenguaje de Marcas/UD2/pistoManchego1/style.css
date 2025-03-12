@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    text-align: left;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.ingredients-title {
+    font-size: 1.5rem;
+    color: #b30000;
+    margin-bottom: 10px;
+}
+
+.ingredients {
+    list-style: none;
+    padding: 0;
+}
+
+.ingredients li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 5px;
+}
+
+.footer {
+    text-align: left;
+    font-size: 0.9rem;
+    color: #555;
+}

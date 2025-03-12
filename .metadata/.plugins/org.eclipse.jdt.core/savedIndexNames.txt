@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+/Users/GabrielTrujilloVallejo/Documents/GitHub/GitGa/DAM/.metadata/.plugins/org.eclipse.jdt.core
+3812157262.index
